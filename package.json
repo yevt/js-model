@@ -1,0 +1,26 @@
+{
+  "name": "js-model",
+  "version": "0.0.1",
+  "description": "M part of MVC",
+  "main": "./js-model.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yevt/js-model.git"
+  },
+  "keywords": [
+    "model"
+  ],
+  "author": "yevt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevt/js-model/issues"
+  },
+  "homepage": "https://github.com/yevt/js-model"
+}
