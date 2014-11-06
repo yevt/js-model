@@ -11,7 +11,8 @@ SRC = src/header.js \
       src/model_rest.js \
       src/null_persistence.js \
       src/model_local_storage.js \
-      src/indexer.js
+      src/indexer.js \
+      src/exports.js
 
 VERSION = $(shell cat VERSION)
 
