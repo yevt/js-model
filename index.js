@@ -1,0 +1,1 @@
+module.exports = require('./js-model-0.11.0');

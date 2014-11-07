@@ -2,7 +2,7 @@
   "name": "js-model",
   "version": "0.0.1",
   "description": "M part of MVC",
-  "main": "./js-model.js",
+  "main": "./index.js",
   "directories": {
     "doc": "docs",
     "test": "test"
