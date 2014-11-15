@@ -72,6 +72,10 @@ Model.Callbacks = {
   }
 };
 
+Model.Callbacks.on = Model.Callbacks.bind;
+Model.Callbacks.off = Model.Callbacks.unbind;
+Model.Callbacks.emit = Model.Callbacks.trigger;
+
 Model.ClassMethods = {
   add: function(model) {
     var id = model.id()
